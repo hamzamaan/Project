@@ -1,0 +1,109 @@
+.header{
+	width: 100%;
+	height: 50px;
+	display: block;
+	background-color: #535c68;
+	margin-top: 25px; 
+}
+
+.footer{
+	width: 100%;
+	height: 100px;
+	display: block;
+	background-color: #535c68;
+	margin-top: 50px;
+
+	
+
+}
+.background{
+	background-color: #84817a;
+}
+.backgroundimage{
+	background-image:url(Grey-Background.jpg);
+	background-size:cover;
+	  
+}
+
+span {
+	font-size:42px;
+	font-weight: bold;
+}
+
+
+.nav{
+	float: left;
+	height: 100%;
+}
+
+.nav a{
+	height: 50px;
+	padding: 0px 20px;
+	text-decoration: none;
+	color: white;
+	font-size: 22px	
+}
+li{
+	display: table-cell;	
+	color: white;
+}
+
+form{
+	padding: 10px;
+	border:1px solid black;
+	background-color: #D3D3D3;
+    	width: 250px;
+    	height:180px;
+    	margin: auto;	
+}
+ 
+.contactform{
+	padding: 20px;
+	border:1px solid black;
+	background-color: #D3D3D3;
+    	width: 270px;
+    	height:300px;
+	margin: auto    	
+
+} 
+
+
+
+
+
+table,th,td{
+	  width: 50%;
+      	  margin: auto;	
+          border: 1px solid black;
+          border-spacing: 0px;
+      
+
+}
+
+
+th {
+   background-color:yellow;
+}
+
+
+.column1{
+	background-color: #4b4b4b;
+	color: white;
+	font-family:arial;
+	font-size:35px;
+}
+
+.column2{
+	background-color:#ee5253;
+	color: white;
+	text-align: right;
+	font-family:arial;
+	font-size:35px;
+}
+.colhead{
+	font-size:50px;
+}
+
+.margin{
+	margin-top: 21px;
+}
